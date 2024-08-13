@@ -1,0 +1,9 @@
+name: Micra_Jdbc
+version: '${version}'
+main: plugin.micra_jdbc.Main
+api-version: '1.20'
+commands:
+  enemydown:
+  enemyspawn:
+  setmagic:
+
